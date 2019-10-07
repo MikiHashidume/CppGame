@@ -1,0 +1,43 @@
+﻿  AppDelegate.cpp
+  HelloWorldScene.cpp
+  main.cpp
+c:\cocos\projects\mygame\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています main.cpp)
+c:\cocos\projects\mygame\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\HelloWorldScene.cpp)
+c:\cocos\projects\mygame\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\AppDelegate.cpp)
+c:\cocos\projects\mygame\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています main.cpp)
+c:\cocos\projects\mygame\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\HelloWorldScene.cpp)
+c:\cocos\projects\mygame\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\Classes\AppDelegate.cpp)
+  1 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  0 個のファイルをコピーしました
+  ファイルが見つかりません - *.*
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  6 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  4 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+AppDelegate.obj : warning LNK4075: /EDITANDCONTINUE は /SAFESEH の指定によって無視されます。
+     ライブラリ C:\Cocos\Projects\MyGame\proj.win32\Debug.win32\MyGame.lib とオブジェクト C:\Cocos\Projects\MyGame\proj.win32\Debug.win32\MyGame.exp を作成中
+  MyGame.vcxproj -> C:\Cocos\Projects\MyGame\proj.win32\Debug.win32\MyGame.exe
+  Performing Custom Build Step
+  C:\Cocos\Projects\MyGame\Resources\CloseNormal.png -> C:\Cocos\Projects\MyGame\proj.win32\Debug.win32\Resources\CloseNormal.png
+  C:\Cocos\Projects\MyGame\Resources\CloseSelected.png -> C:\Cocos\Projects\MyGame\proj.win32\Debug.win32\Resources\CloseSelected.png
+  C:\Cocos\Projects\MyGame\Resources\HelloWorld.png -> C:\Cocos\Projects\MyGame\proj.win32\Debug.win32\Resources\HelloWorld.png
+  C:\Cocos\Projects\MyGame\Resources\fonts\arial.ttf -> C:\Cocos\Projects\MyGame\proj.win32\Debug.win32\Resources\fonts\arial.ttf
+  C:\Cocos\Projects\MyGame\Resources\fonts\Marker Felt.ttf -> C:\Cocos\Projects\MyGame\proj.win32\Debug.win32\Resources\fonts\Marker Felt.ttf
+  C:\Cocos\Projects\MyGame\Resources\res\.gitkeep -> C:\Cocos\Projects\MyGame\proj.win32\Debug.win32\Resources\res\.gitkeep
+  6 個のファイルをコピーしました
+          1 個のファイルをコピーしました。
+          1 個のファイルをコピーしました。
